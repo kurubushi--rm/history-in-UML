@@ -1,0 +1,61 @@
+@startuml
+
+participant イギリス
+participant スペイン
+participant フランス
+participant 北アメリカ
+participant 南アメリカ
+
+hnote over イギリス,フランス
+  七年戦争
+  フレンチ＝インディアン戦争
+  による財政危機
+end hnote
+
+イギリス -> 北アメリカ : 植民地への課税強化
+スペイン -> 南アメリカ : 植民地への課税強化
+
+hnote over フランス
+  財政改革
+  　　↓
+  　失　敗
+end hnote
+
+hnote over 北アメリカ
+  1775-83年
+  アメリカ独立戦争
+end hnote
+
+hnote over フランス
+  1789年
+  フランス革命
+end hnote
+
+フランス -> 北アメリカ: フランス革命、ハイチ植民地へ影響
+hnote over 北アメリカ
+  1791年
+  ハイチ独立革命
+end hnote
+
+北アメリカ -> 南アメリカ : ハイチ独立革命の影響
+スペイン -> 南アメリカ : 独立を恐れて現地白人に譲歩
+
+hnote over イギリス
+  1798年
+  アイルランドで反乱
+  （ユナイテッド・アイリッシュメンによる）
+end hnote
+
+hnote over イギリス,フランス
+  1803-1815年
+  ナポレオン戦争
+end hnote
+
+スペイン -> 南アメリカ : ナポレオン戦争による本国の混乱→影響力低下
+
+hnote over 南アメリカ
+  ラテンアメリカ
+  諸国の独立
+end hnote
+
+@enduml
