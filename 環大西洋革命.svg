@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="709px" preserveAspectRatio="none" style="width:770px;height:709px;" version="1.1" viewBox="0 0 770 709" width="770px" zoomAndPan="magnify"><defs><filter height="300%" id="f1sc33e992qdvd" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="150" x2="150" y1="38.4883" y2="669.252"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="234" x2="234" y1="38.4883" y2="669.252"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="318" x2="318" y1="38.4883" y2="669.252"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="550" x2="550" y1="38.4883" y2="669.252"/><line style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 5.0,5.0;" x1="704" x2="704" y1="38.4883" y2="669.252"/><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="113" y="3"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="120" y="23.5352">イギリス</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="113" y="668.252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="120" y="688.7871">イギリス</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="197" y="3"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="204" y="23.5352">スペイン</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="197" y="668.252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="204" y="688.7871">スペイン</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="281" y="3"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="288" y="23.5352">フランス</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="70" x="281" y="668.252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="288" y="688.7871">フランス</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="506" y="3"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="513" y="23.5352">北アメリカ</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="506" y="668.252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="513" y="688.7871">北アメリカ</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="660" y="3"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="667" y="23.5352">南アメリカ</text><rect fill="#FEFECE" filter="url(#f1sc33e992qdvd)" height="30.4883" style="stroke: #A80036; stroke-width: 1.5;" width="84" x="660" y="668.252"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="70" x="667" y="688.7871">南アメリカ</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="125,53.4883,342,53.4883,352,79.4883,342,106.4883,125,106.4883,115,79.4883,125,53.4883" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="149" y="70.0566">七年戦争</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="169" x="149" y="85.3672">フレンチ＝インディアン戦争</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="91" x="149" y="100.6777">による財政危機</text><polygon fill="#A80036" points="538,129.7305,548,133.7305,538,137.7305,542,133.7305" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="150" x2="544" y1="133.7305" y2="133.7305"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="117" x="157" y="128.9883">植民地への課税強化</text><polygon fill="#A80036" points="692,159.041,702,163.041,692,167.041,696,163.041" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="234" x2="698" y1="163.041" y2="163.041"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="117" x="241" y="158.2988">植民地への課税強化</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="290,176.041,346,176.041,356,202.041,346,229.041,290,229.041,280,202.041,290,176.041" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="292" y="192.6094">財政改革</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="34" x="292" y="207.9199">　　↓</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="52" x="292" y="223.2305">　失　敗</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="496,239.9727,604,239.9727,614,258.9727,604,277.9727,496,277.9727,486,258.9727,496,239.9727" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="69" x="498" y="256.541">1775-83年</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="104" x="498" y="271.8516">アメリカ独立戦争</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="277,288.5938,359,288.5938,369,307.5938,359,326.5938,277,326.5938,267,307.5938,277,288.5938" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="279" y="305.1621">1789年</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="78" x="279" y="320.4727">フランス革命</text><polygon fill="#A80036" points="538,349.5254,548,353.5254,538,357.5254,542,353.5254" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="318" x2="544" y1="353.5254" y2="353.5254"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="208" x="325" y="348.7832">フランス革命、ハイチ植民地へ影響</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="502,366.5254,597,366.5254,607,385.5254,597,404.5254,502,404.5254,492,385.5254,502,366.5254" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="504" y="383.0938">1791年</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="91" x="504" y="398.4043">ハイチ独立革命</text><polygon fill="#A80036" points="692,427.457,702,431.457,692,435.457,696,431.457" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="550" x2="698" y1="431.457" y2="431.457"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="130" x="557" y="426.7148">ハイチ独立革命の影響</text><polygon fill="#A80036" points="692,456.7676,702,460.7676,692,464.7676,696,460.7676" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="234" x2="698" y1="460.7676" y2="460.7676"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="169" x="241" y="456.0254">独立を恐れて現地白人に譲歩</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="18,473.7676,282,473.7676,292,499.7676,282,526.7676,18,526.7676,8,499.7676,18,473.7676" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="45" x="20" y="490.3359">1798年</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="117" x="20" y="505.6465">アイルランドで反乱</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="260" x="20" y="520.957">（ユナイテッド・アイリッシュメンによる）</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="125,537.6992,342,537.6992,352,556.6992,342,575.6992,125,575.6992,115,556.6992,125,537.6992" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="85" x="188" y="554.2676">1803-1815年</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="91" x="188" y="569.5781">ナポレオン戦争</text><polygon fill="#A80036" points="692,598.6309,702,602.6309,692,606.6309,696,602.6309" style="stroke: #A80036; stroke-width: 1.0;"/><line style="stroke: #A80036; stroke-width: 1.0;" x1="234" x2="698" y1="602.6309" y2="602.6309"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="273" x="241" y="597.8887">ナポレオン戦争による本国の混乱→影響力低下</text><polygon fill="#FBFB77" filter="url(#f1sc33e992qdvd)" points="656,615.6309,751,615.6309,761,634.6309,751,653.6309,656,653.6309,646,634.6309,656,615.6309" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="91" x="658" y="632.1992">ラテンアメリカ</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="65" x="658" y="647.5098">諸国の独立</text><!--
+@startuml
+
+participant イギリス
+participant スペイン
+participant フランス
+participant 北アメリカ
+participant 南アメリカ
+
+hnote over イギリス,フランス
+  七年戦争
+  フレンチ＝インディアン戦争
+  による財政危機
+end hnote
+
+イギリス -> 北アメリカ : 植民地への課税強化
+スペイン -> 南アメリカ : 植民地への課税強化
+
+hnote over フランス
+  財政改革
+  　　↓
+  　失　敗
+end hnote
+
+hnote over 北アメリカ
+  1775-83年
+  アメリカ独立戦争
+end hnote
+
+hnote over フランス
+  1789年
+  フランス革命
+end hnote
+
+フランス -> 北アメリカ: フランス革命、ハイチ植民地へ影響
+hnote over 北アメリカ
+  1791年
+  ハイチ独立革命
+end hnote
+
+北アメリカ -> 南アメリカ : ハイチ独立革命の影響
+スペイン -> 南アメリカ : 独立を恐れて現地白人に譲歩
+
+hnote over イギリス
+  1798年
+  アイルランドで反乱
+  （ユナイテッド・アイリッシュメンによる）
+end hnote
+
+hnote over イギリス,フランス
+  1803-1815年
+  ナポレオン戦争
+end hnote
+
+スペイン -> 南アメリカ : ナポレオン戦争による本国の混乱→影響力低下
+
+hnote over 南アメリカ
+  ラテンアメリカ
+  諸国の独立
+end hnote
+
+@enduml
+
+PlantUML version 1.2018.12(Sun Oct 21 19:15:15 JST 2018)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_191-b12
+Operating System: Mac OS X
+OS Version: 10.10.5
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+--></g></svg>
