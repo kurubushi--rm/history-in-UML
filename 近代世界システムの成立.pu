@@ -1,0 +1,11 @@
+@startuml
+skinparam handwritten true
+skinparam monochrome true
+skinparam defaultFontName APJapanesefont
+
+(西ヨーロッパ) -down-> (アフリカ) : 武器、装身具
+(アフリカ) -left-> (ラテンアメリカ)  : 奴隷
+(ラテンアメリカ) -up-> (西ヨーロッパ) : 銀
+(東ヨーロッパ) <-left-> (西ヨーロッパ) : バルト海貿易
+
+@enduml
